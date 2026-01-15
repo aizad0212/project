@@ -3,8 +3,8 @@
 Developed a Python script Hotel Management System to streamline hotel operations, including room reservations, guest management, and administrative control. The system allows customers to search for available rooms, make bookings, and manage reservations, while administrators can efficiently handle room inventory and customer data.
 
 <h3>⚙️ Software Usagge</h3>
-  > Python
-  > Visual Studio
+  > Python <br>
+  > Visual Studio <br>
 
 <h3>✏️ Features</h3>
   > User registration system <br>
