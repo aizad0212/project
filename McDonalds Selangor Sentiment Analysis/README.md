@@ -4,10 +4,17 @@ Conducted a text analytics and sentiment analysis project on McDonald’s custom
 
 <h3>⚙️ Software Usage</h3>
   > Python <br>
-  > Streamlit
+  > Pandas <br>
+  > Matplotlib <br>
+  > Seaborn <br>
+  > NumPy <br>
+  > Scikit-Learn <br>
+  > Streamlit <br>
 
 <h3>✏️ Analysis Features</h3>
   > Text Classification <br>
+  > Text Blob <br>
+  > Vader Sentiment <br>
   > Sentiment Analysis <br>
   > Topic Modeling <br>
   
