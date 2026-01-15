@@ -1,6 +1,6 @@
 <h1>Hello there !</h1>
 
-I'm Aizad, a graduate student of Bachelor of Information Systems.
+I'm Aizad, a recent graduate student of Bachelor of Information Systems.
 
 I do some analytical thinking and problem solving. Becoming a data analyst/scientist is a job opportunity I would like to explore.
 
