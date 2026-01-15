@@ -13,4 +13,4 @@ Conducted a text analytics and sentiment analysis project on McDonald’s custom
   
 <h3>🖥️ Quick Look</h3><br>
 
-https://github.com/user-attachments/assets/34e21e90-91be-4e48-937e-8a8a125b0b1f
+https://github.com/user-attachments/assets/2574a0e1-266d-4158-827f-04b3cbcdc95a
