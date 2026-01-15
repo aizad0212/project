@@ -12,6 +12,7 @@ Designed and developed a full-stack Event Ticketing Website that enables users t
 <h3>Features</h3>
   > Event listing with detailed concert information <br>
   > User registration and login system and have a session time <br>
+  > User editing profile <br>
   > Online ticket booking <br>
   > Admin dashboard to manage events, tickets, and number of users <br>
   > Data storage using MySQL database (phpMyAdmin) <br>
