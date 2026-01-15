@@ -20,4 +20,5 @@ Developed a predictive analytics system to analyze cybersecurity attack data and
   > Support Vector Machine (SVM) <br>
   
 <h3>🖥️ Quick Look</h3><br>
-https://github.com/user-attachments/assets/dde52682-6de9-4294-92ba-62a50c55c92b
+
+https://github.com/user-attachments/assets/3f1e4ef1-6e88-4c1c-9a69-6d64ef9a5b02
