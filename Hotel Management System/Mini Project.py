@@ -13,12 +13,12 @@ class Hotel:
             'rooms': self.rooms,
             'available_rooms': self.available_rooms
         }
-        with open('Learning/Mini Project/hotel_data.txt', 'w') as file:
+        with open('hotel_data.txt', 'w') as file:
             json.dump(data, file)
 
     def load_data(self):
         try:
-            with open('Learning/Mini Project/hotel_data.txt', 'r') as file:
+            with open('hotel_data.txt', 'r') as file:
                 data = json.load(file)
                 self.rooms = {int(k): v for k, v in data['rooms'].items()}
                 self.available_rooms = data['available_rooms']
@@ -282,4 +282,5 @@ class Hotel:
 
 h = Hotel()
 h.start_app()
+
 
