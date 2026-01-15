@@ -14,3 +14,5 @@ Developed a Python script Hotel Management System to streamline hotel operations
   > Automated room availability updates <br>
 
 <h3>🖥️ Quick Look</h3><br>
+
+https://github.com/user-attachments/assets/028b029e-6e7f-4301-b721-94d86dbb68a1
