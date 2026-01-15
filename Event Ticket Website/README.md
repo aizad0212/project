@@ -2,14 +2,14 @@
 
 Designed and developed a full-stack Event Ticketing Website that enables users to browse events, purchase tickets, and manage bookings through a user-friendly web interface. The system includes role-based access for administrators and customers, ensuring secure event management(session), ticket sales, and data handling.
 
-<h3>Software Usagge</h3>
+<h3>⚙️ Software Usagge</h3>
   > HTML <br>
   > CSS <br>
   > JavaScript <br>
   > PHP <br>
   > Bootstrap Framework <br>
 
-<h3>Features</h3>
+<h3>✏️ Features</h3>
   > Event listing with detailed concert information <br>
   > User registration and login system and have a session time <br>
   > User editing profile <br>
@@ -17,6 +17,6 @@ Designed and developed a full-stack Event Ticketing Website that enables users t
   > Admin dashboard to manage events, tickets, and number of users <br>
   > Data storage using MySQL database (phpMyAdmin) <br>
 
-<h3>Quick Look</h3><br>
+<h3>🖥️ Quick Look</h3><br>
 
 https://github.com/user-attachments/assets/34e21e90-91be-4e48-937e-8a8a125b0b1f
