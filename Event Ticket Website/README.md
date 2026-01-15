@@ -17,4 +17,6 @@ Designed and developed a full-stack Event Ticketing Website that enables users t
   > Admin dashboard to manage events, tickets, and number of users <br>
   > Data storage using MySQL database (phpMyAdmin) <br>
 
+<h3>Quick Look</h3><br>
+
 https://github.com/user-attachments/assets/34e21e90-91be-4e48-937e-8a8a125b0b1f
