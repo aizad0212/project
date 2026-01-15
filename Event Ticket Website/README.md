@@ -2,7 +2,7 @@
 
 Designed and developed a full-stack Event Ticketing Website that enables users to browse events, purchase tickets, and manage bookings through a user-friendly web interface. The system includes role-based access for administrators and customers, ensuring secure event management(session), ticket sales, and data handling.
 
-<h3>⚙️ Software Usagge</h3>
+<h3>⚙️ Software Usage</h3>
   > HTML <br>
   > CSS <br>
   > JavaScript <br>
