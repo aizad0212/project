@@ -5,13 +5,13 @@ Developed a predictive analytics system to analyze cybersecurity attack data and
 <h3>⚙️ Software Usage</h3>
   > Python <br>
   > Anaconda Navigator (Jupyter) <br>
-  > Pandas
-  > NumPy
-  > Matplotlib
-  > Seaborn
-  > Scikit-learn
-  > SciPy
-  > Joblib
+  > Pandas <br>
+  > NumPy <br>
+  > Matplotlib <br>
+  > Seaborn <br>
+  > Scikit-learn <br>
+  > SciPy <br>
+  > Joblib <br>
 
 <h3>✏️ ML Usage</h3>
   > XGBoost <br>
